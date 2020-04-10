@@ -1,0 +1,11 @@
+img{
+    max-height: 50%;
+    height: 200px;
+}
+#navbar{
+    position:fixed;
+    top:0;
+    display: block;
+    background-color: black;
+
+}
